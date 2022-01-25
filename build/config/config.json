@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xdd31b8928baff890cde033e01d5636",
+  "SCAN_LINK": "https://etherscan.io/address/0xdd31b8928baff890cde033e01d5636",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "DragonCult",
+  "SYMBOL": "DRAG",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/0xdragoncult",
+  "SHOW_BACKGROUND": true
+}
